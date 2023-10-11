@@ -3,3 +3,6 @@ Personal Project about artistic movement recognition of images. Inspired by my b
 
 For more informations about the thesis:
 https://github.com/riccardorosalen/features_artistic_movement_recognition
+
+Dataset used:
+https://data.mendeley.com/datasets/289kxpnp57/1
